@@ -7,9 +7,9 @@
 442:agaric:touchwood:OK
 484:agreeable:confirmable:OK
 545:alertness:wakSfulness:watchfulness
-;scan error
+;
 619:alone:imperiality:OK
-697:ammunition:nowgunpowder:now=gun powder
+697:ammunition:nowgunpowder:now=gunpowder
 756:and:omited:omitted
 ;scan error
 765:anger:deeprooted:deep-rooted
@@ -17,9 +17,11 @@
 863:antiquated:oldfashioned:old-fashioned
 ;scan error
 881:anywhere:kiii
-;seems to be a scan error,unsure
+;,unsure
+; jim : probable reference
 881:anywhere:iiii
-;seems to be scan error,unsure
+;unsure
+; jim : probable reference
 935:appellate:jurisdication:jurisdiction
 997:apsis:apsides:OK
 1019:arch:properlyan:properly=an
@@ -60,9 +62,9 @@
 2688:brush:brushy:OK
 2689:brush:vt:OK
 2718:budget:revenuc:revenue
-;scan vague
+;vague print
 2807:bursar:holden:holder
-;scan vague
+;print vague
 2828:but:ommitted:omitted
 ;scan error
 2854:by:bpast:(b)=past
@@ -96,8 +98,9 @@
 3264:cause:produ:produce
 ;bad scan
 ;made an educated guess
-3327:censure:mixec
+3327:censure:mixec:mixed
 ;bad scan
+; jim mixed  (by context)
 ;cannot make out the word
 3330:cent:annum:OK
 3414:chance:hight:high
@@ -135,11 +138,12 @@
 5073:crime:offencesin:offence=sin
 5127:cross:intrument:instrument
 ;scan error
-5182:crush:encrush
+5182:crush:encrush:OK
 5205:cuckold:expe:expr
 ;scan error
 5214:cuff:fisti:fist
-;scan error
+;jim. Disagree -- 'to be at fisti -c.'  is an odd abbreviation of
+;  'to be at fisticuffs'
 5396:dance:altendance:attendance
 ;scan error
 5593:decoction:decocting:OK
@@ -176,7 +180,7 @@
 ;scan error
 7762:equally:makSed:matched
 7817:eruption:ikS:itch
-7961:examination:mortem
+7961:examination:mortem:OK
 8057:exercise:disquistion:disquisition
 ;scan error
 8090:exit:omnes:OK
@@ -308,9 +312,9 @@
 14788:mistake:incorrection:OK
 14832:mocker:derider:OK
 14858:mohammedan:mussulman:OK
-14913:monopolize:forstall
-15129:muriatic:hydrochloric
-15220:namely:disaffective
+14913:monopolize:forstall:OK
+15129:muriatic:hydrochloric:OK
+15220:namely:disaffective:OK
 15287:near:caming:coming
 ;scan error
 15460:nod:asesnt:assent
@@ -323,7 +327,7 @@
 16013:orthodox:bigotted:OK
 16183:overtax:overtask:OK
 16194:overwhelm:immerge:OK
-16442:paronomasia:paronomastically
+16442:paronomasia:paronomastically:OK
 16616:peace:intej:interj.
 ;scan error
 16660:peddler:paiker:OK
