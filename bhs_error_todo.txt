@@ -1,180 +1,194 @@
-361:atyAKyAya:misedits:
-423:aDipatya:overtordship:
-432:aDimukta:misrendered:
-462:aDizWAna:equational:
-504:aDyAhAriRIlipi:suppletive:
-635:anavalIna:aprakampyo:
-781:anuguRya:conformability:
-792:anuccAvaca:eauable:
-828:anuDarma:paralled:
-1009:anuvartanA:classicus:
-1022:anuvidiS:semicardinal:
-1092:anokASa:corwded:
-1102:anomiya:whcih:
-1155:antaroddAna:deatils:
-1183:antraguRa:mesentery:
-1244:apaRyIjAta:unmerchandisable:
-1264:apamArgaka:contemners:
-1333:apasfjati:supralineal:
-1355:apiqita:harrassed:
-1556:aBipaSya:parellel:
-1613:aBirocana:ng:
-1686.1:aBisaMbuDyate:thoroly:
-1776:amadgu:worngly:
-1853:ayava:paren:
-2097:avanamana:oending:
-2153:avalehakam:cating:
-2189:avasarati:approched:
-2305:avyAbADa:uninjurious:
-2314:aSASvatam:annihilable:
-2314:aSASvatam:contrastable:
-2318:aSuBaBAvanA:fissured:
-2586:AcAryaka:teacherhood:
-2621:AwAnAwika:clls:
-2648:Attamana:alternant:
-2689:AdIkaroti:infinit:
-2868:AyuzmaM:adressed:
-3010:AvAsin:apon:
-3012:AvAhaka:introductive:
+361:atyAKyAya:misedits:OK
+423:aDipatya:overtordship:overlordship:typo
+432:aDimukta:misrendered:OK
+462:aDizWAna:equational:OK
+504:aDyAhAriRIlipi:suppletive:OK
+635:anavalIna:aprakampyo:aprakampyo'navalīno
+;sanskrit word
+;I have deleted the unnecessary space after <'> for avagraha
+781:anuguRya:conformability:OK
+792:anuccAvaca:eauable:equable:scan error
+828:anuDarma:paralled:parallel:typo
+1009:anuvartanA:classicus:OK
+1022:anuvidiS:semicardinal:OK
+1092:anokASa:corwded:crowded:typo
+1102:anomiya:whcih:which:typo
+1155:antaroddAna:deatils:details:typo
+1183:antraguRa:mesentery:OK
+1244:apaRyIjAta:unmerchandisable:OK
+1264:apamArgaka:contemners:OK
+1333:apasfjati:supralineal:supralinear:scan error
+1355:apiqita:harrassed:harassed:scan error
+1556:aBipaSya:parellel:parallel:scan error
+1613:aBirocana:ng:surpassing:scan error
+1686.1:aBisaMbuDyate:thoroly:thoroughly:scan error
+1776:amadgu:worngly:wrongly:typo
+1853:ayava:paren:paren.:typo
+;dot after <paren> is necessary
+;abbreviation
+2097:avanamana:oending:pending:scan error
+2153:avalehakam:cating:eating:scan error
+2189:avasarati:approched:approached:scan error
+2305:avyAbADa:uninjurious:OK
+2314:aSASvatam:annihilable:OK
+2314:aSASvatam:contrastable:OK
+2318:aSuBaBAvanA:fissured:OK
+2586:AcAryaka:teacherhood:OK
+2621:AwAnAwika:clls:calls:typo
+2648:Attamana:alternant:OK
+2689:AdIkaroti:infinit:infinite:scan error
+2868:AyuzmaM:adressed:addressed:scan error
+3010:AvAsin:apon:upon:scan error
+;another scan error <settlea> corrected to <settled>
+3012:AvAhaka:introductive:OK
+;not commonly used but OK
 3020:Avusa:ux:
-3108:AhAryapAdaka:insertable:
-3269:ucCAdana:erasion:
-3409:utTala:sandhill:
-3483:udakacandra:svnonyms:
-3582:udyAma:excapes:
-3620:unmUrDaka:vioient:
-3642:upakleSa:deflning:
-3650:upagUQaka:repentent:
-3764:upalaByate:revilling:
-3765:upalamBa:apperception:
-3775:upavarga:abandonmen:
-3874:upArDa:boscure:
-3953:uzRIza:turbanned:
-3984:Uhata:palmtree:
-4226:omUrDaka:discomflted:
-4349:kaWala:pabbles:
-4381:katira:ense:
-4478:karakandikara:metathetized:
-4540:karmapaTa:likelv:
-4554:kala:enlightment:
-4559:kalandakanivApa:nean:
-4604:kalpika:tood:
-4631:kaSambakajAta:mconsistent:
-4648:kahApaRa:pasage:
-4691:kARqaka:ptece:
-4702:kApotaka:gui:
-4702:kApotaka:mangent:
-4703:kAma:ovject:
-4812:kASi:retes:
-4855:kiwika:petas:
-5205:kEYjalka:derited:
-5284:kOSika:graphie:
-5427:Kawa:fisticuff:
-5779:guRAvaguRWitaBUta:implicatus:
-5792:guruka:parenthetized:
-5823:gfdDi:desirc:
-5840:gocara:worldlings:
-5854:gotra:seea:
-5994:ca:protasis:
-6158:caryA:andowment:
-6369:codanA:refernce:
-6426:Cedya:yound:
+;not alphabets, markers of poetic meter
+3108:AhAryapAdaka:insertable:OK
+3269:ucCAdana:erasion:erosion:scan error
+3409:utTala:sandhill:OK
+3483:udakacandra:svnonyms:synonyms:scan error
+3582:udyAma:excapes:escapes:scan error
+3620:unmUrDaka:vioient:violent:scan vague
+3642:upakleSa:deflning:defining:scan vague
+3650:upagUQaka:repentent:repentant:scan error
+3764:upalaByate:revilling:reviling:scan error
+3765:upalamBa:apperception:OK
+3775:upavarga:abandonmen:abandonment:scan error
+3874:upArDa:boscure:obscure:typo
+3953:uzRIza:turbanned:OK
+3984:Uhata:palmtree:OK
+4226:omUrDaka:discomflted:discomfited:scan error
+4349:kaWala:pabbles:pebbles:scan error
+4381:katira:ense:sense:scan error
+4478:karakandikara:metathetized:metathesized:scan error
+4540:karmapaTa:likelv:likely:scan error
+4554:kala:enlightment:enlightenment:scan error
+4559:kalandakanivApa:nean:near:scan error
+4604:kalpika:tood:food:scan error
+4631:kaSambakajAta:mconsistent:inconsistent:scan error
+4648:kahApaRa:pasage:passage:typo
+4691:kARqaka:ptece:piece:scan error
+4702:kApotaka:gui:qui:scan error
+;French
+4702:kApotaka:mangent:OK
+;French
+4703:kAma:ovject:object:scan error
+4812:kASi:retes:rates:typo
+4855:kiwika:petas:OK
+5205:kEYjalka:derited:OK
+5284:kOSika:graphie:OK
+5427:Kawa:fisticuff:OK
+5779:guRAvaguRWitaBUta:implicatus:OK
+5792:guruka:parenthetized:parenthesized:scan error
+5823:gfdDi:desirc:desire:scan error
+5840:gocara:worldlings:OK
+5854:gotra:seea:seed:scan error
+5994:ca:protasis:OK
+6158:caryA:andowment:endowment:scan error
+6369:codanA:refernce:reference:typo
+6426:Cedya:yound:young:typo
 6429:Corayati:apostrophizes:
-6461:janayitrI:sensum:
-6623:jinavrata:uninterpretably:
-6740:jyotis:foenum:
-6740:jyotis:graecum:
-6891:tAqAvacara:spelied:
-7012:tulya:sequal:
-7247:darSAvin:construotion:
-7376:duraDimoca:disciplehood:
-7604:droRavastuka:nome:
-7633:dvipari:tertium:
-7706:Darma:specilized:
-7914:DAraRI:talismanic:
-7951:DUmrasagotra:livivg:
-7991:DvajabadDaka:arent:
-8234:niGaRwa:lexicology:
-8302:niyAma:unchangeably:
-8374:nirjava:impetuousity:
-8420:nirmARabudDa:craeation:
-8671:nEkAyika:literalism:
-8673:nEgama:countryfolk:
-8830:padaparama:literalist:
-9103:pariBAzaRa:admonitio:
-9178:parizaRqa:chorten:
-9263:paryavasTAna:enwrapping:
-9425:pAramitA:mastcry:
-9651:puzpa:etement:
-9661:puzpapuwa:handfull:
-9692:pUra:mustardseeds:
-9704:pUrRamuKa:hypocoristics:
-9718:pUrvapreta:existenceLV:
-9733:pUrvAvadAna:namec:
-9741:pUrvenivAsa:rearely:
-9804:pontI:headcloth:
-9919:praRidaDAti:vowest:
-9929:pratarkya:discoverable:
-9995:pratinivAsana:underpiece:
-10013:pratipad:asceiticism:
-10062:pratiBAsa:displayest:
-10293:pratyudDArya:nunhood:
-10501:pravAraRa:cerenomy:
-10644:prahARika:sternuosity:
-10654:prAkftaka:gart:
-10942:bAhulika:gourmandizing:
-11128:BaddAlin:tradtion:
-11310:BUyorucitA:ght:
-11384:makzI:hoth:
-11532:mananA:intellection:
-11553:manojana:epenthesis:
-11722:mahAdUtI:potencies:
-12162:muzwi:depite:
-12194:mUlAto:fowlers:
-12206:mfgadAya:deerpark:
-12405:yamakaSAla:tbe:
-12463:yAnAti:proclitic:
-12720:ravita:unambigous:
-12758:rAjapawwa:azurite:
-12976:lAGava:fishline:
-13116:vaMSarocanA:patchword:
-13140:vajraka:diamantine:
-13408:vaSavartana:congnizant:
-13414:vaSitA:masteries:
-13628:vikfta:alterant:
-13725:viCandayati:undersirous:
-13762:vijYAnAhAra:deflinition:
-13794:vidu:texis:
-13920:viparyata:worldings:
-14250:viSoDeya:purifiable:
-14349:vIci:enjoyea:
-14521:vEnASika:destructionist:
-14606:vEstArika:ditributed:
-14614:vyaMsayati:havent:
-14648:vyalaMkaroti:disadorns:
-14734:vyupaparIkzate:hypermetrical:
-14734:vyupaparIkzate:haplological:
-14740:vyUha:magnificerice:
-14974:SASvatadfzwi:eternality:
-15180:Sezita:ang:
-15274:SrI:honorifically:
-15398:saMlIyanA:disheartenment:
-15410:saMvartanI:versal:
-15425:saMviheWayati:gerundive:
-15449:saMSlezayati:enwrap:
-15518:saMkAra:pariahhood:
-15820:sama:carth:
-16054:samApatti:equanimily:
-16088:samucCraya:bodity:
-16154:samupakaraRa:rva:
-16330:saMBinnavyaYjana:initation:
-16698:sAmantaka:mounth:
-16708:sAmudra:chiromancy:
-17101:surati:unvirtuous:
-17300:soQOkikA:dispaproved:
-17327:sovatTika:wealful:
-17454:spandita:vaporings:
-17529:srotaApatti:writen:
-17540:svapnADyAya:buf:
-17661:hastiniyaMsa:scond:
-17665:hastokta:imperium:
+6461:janayitrI:sensum:OK
+6623:jinavrata:uninterpretably:OK
+6740:jyotis:foenum:OK
+6740:jyotis:graecum:OK
+6891:tAqAvacara:spelied:spelled:scan error
+7012:tulya:sequal:sequel:typo
+7247:darSAvin:construotion:construction:scan error
+7376:duraDimoca:disciplehood:OK
+7604:droRavastuka:nome:home:scan error
+7633:dvipari:tertium:OK
+7706:Darma:specilized:specialized:scan error
+7914:DAraRI:talismanic:OK
+7951:DUmrasagotra:livivg:living:scan error
+7991:DvajabadDaka:arent:aren't
+;entry and scan both OK
+8234:niGaRwa:lexicology:OK
+8302:niyAma:unchangeably:OK
+8374:nirjava:impetuousity:impetuosity:scan error
+8420:nirmARabudDa:craeation:creation:scan error
+8671:nEkAyika:literalism:OK
+8673:nEgama:countryfolk:OK
+8830:padaparama:literalist:OK
+9103:pariBAzaRa:admonitio:OK
+9178:parizaRqa:chorten:OK
+9263:paryavasTAna:enwrapping:OK
+9425:pAramitA:mastcry:mastery:scan error
+9651:puzpa:etement:element:scan error
+9661:puzpapuwa:handfull:OK
+9692:pUra:mustardseeds:mustard seeds:scan error
+9704:pUrRamuKa:hypocoristics:OK
+9718:pUrvapreta:existenceLV:existence LV:typo
+9733:pUrvAvadAna:namec:named:scan error
+9741:pUrvenivAsa:rearely:rarely:typo
+9804:pontI:headcloth:OK
+9919:praRidaDAti:vowest:OK
+9929:pratarkya:discoverable:OK
+9995:pratinivAsana:underpiece:OK
+10013:pratipad:asceiticism:asceticism:typo
+10062:pratiBAsa:displayest:OK
+10293:pratyudDArya:nunhood:OK
+10501:pravAraRa:cerenomy:ceremony:scan error
+10644:prahARika:sternuosity:strenuosity:typo
+10654:prAkftaka:gart:garb:scan error
+10942:bAhulika:gourmandizing:OK
+11128:BaddAlin:tradtion:tradition:scan error
+11310:BUyorucitA:ght:might:scan error
+11384:makzI:hoth:both:scan error
+11532:mananA:intellection:OK
+11553:manojana:epenthesis:OK
+11722:mahAdUtI:potencies:OK
+12162:muzwi:depite:despite:scan error
+12194:mUlAto:fowlers:OK
+12206:mfgadAya:deerpark:OK
+;more common would be <deer park>
+12405:yamakaSAla:tbe:the:scan error
+12463:yAnAti:proclitic:OK
+12720:ravita:unambigous:unambiguous:scan error
+12758:rAjapawwa:azurite:OK
+12976:lAGava:fishline:OK
+13116:vaMSarocanA:patchword:OK
+13140:vajraka:diamantine:OK
+13408:vaSavartana:congnizant:cognizant:typo
+13414:vaSitA:masteries:OK
+13628:vikfta:alterant:OK
+13725:viCandayati:undersirous:undesirous:typo
+13762:vijYAnAhAra:deflinition:definition:scan error
+13794:vidu:texis:texts:scan error
+13920:viparyata:worldings:worldlings:typo
+14250:viSoDeya:purifiable:OK
+14349:vIci:enjoyea:enjoyed:scan error
+14521:vEnASika:destructionist:OK
+14606:vEstArika:ditributed:distributed:scan error
+14614:vyaMsayati:havent:haven't
+;OK in text
+;OK in scan
+14648:vyalaMkaroti:disadorns:OK
+14734:vyupaparIkzate:hypermetrical:OK
+14734:vyupaparIkzate:haplological:OK
+14740:vyUha:magnificerice:magnificence:scan error
+14974:SASvatadfzwi:eternality:OK
+15180:Sezita:ang:any:scan error
+15274:SrI:honorifically:OK
+15398:saMlIyanA:disheartenment:OK
+15410:saMvartanI:versal:universal:scan error
+15425:saMviheWayati:gerundive:OK
+15449:saMSlezayati:enwrap:OK
+15518:saMkAra:pariahhood:OK
+15820:sama:carth:earth:scan vague
+16054:samApatti:equanimily:equanimity:scan error
+16088:samucCraya:bodity:bodily:typo
+16154:samupakaraRa:rva:OK
+;sanskrit
+16330:saMBinnavyaYjana:initation:initiation:scan error
+16698:sAmantaka:mounth:mouth:typo
+16708:sAmudra:chiromancy:OK
+17101:surati:unvirtuous:OK
+17300:soQOkikA:dispaproved:disapproved:scan error
+17327:sovatTika:wealful:OK
+17454:spandita:vaporings:OK
+17529:srotaApatti:writen:written:scan error
+17540:svapnADyAya:buf:but:scan error
+17661:hastiniyaMsa:scond:second:typo
+17665:hastokta:imperium:OK
