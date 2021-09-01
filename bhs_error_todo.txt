@@ -40,17 +40,21 @@
 2868:AyuzmaM:adressed:addressed:scan error
 3010:AvAsin:apon:upon:scan error
 ;another scan error <settlea> corrected to <settled>
+; jim Good!
 3012:AvAhaka:introductive:OK
 ;not commonly used but OK
-3020:Avusa:ux:
+3020:Avusa:ux:typo
 ;not alphabets, markers of poetic meter
+; jim WIll find the Unicode for short & long poetic meter and insert.
 3108:AhAryapAdaka:insertable:OK
 3269:ucCAdana:erasion:erosion:scan error
 3409:utTala:sandhill:OK
 3483:udakacandra:svnonyms:synonyms:scan error
 3582:udyAma:excapes:escapes:scan error
-3620:unmUrDaka:vioient:violent:scan vague
-3642:upakleSa:deflning:defining:scan vague
+3620:unmUrDaka:vioient:violent
+; scan vague
+3642:upakleSa:deflning:defining
+; scan vague
 3650:upagUQaka:repentent:repentant:scan error
 3764:upalaByate:revilling:reviling:scan error
 3765:upalamBa:apperception:OK
@@ -76,7 +80,9 @@
 4703:kAma:ovject:object:scan error
 4812:kASi:retes:rates:typo
 4855:kiwika:petas:OK
-5205:kEYjalka:derited:OK
+;5205:kEYjalka:derited:OK
+5205:kEYjalka:derited:derived:scan error
+; Jim changed. derited not found;  derived makes sense.
 5284:kOSika:graphie:OK
 5427:Kawa:fisticuff:OK
 5779:guRAvaguRWitaBUta:implicatus:OK
@@ -88,7 +94,7 @@
 6158:caryA:andowment:endowment:scan error
 6369:codanA:refernce:reference:typo
 6426:Cedya:yound:young:typo
-6429:Corayati:apostrophizes:
+6429:Corayati:apostrophizes:OK
 6461:janayitrI:sensum:OK
 6623:jinavrata:uninterpretably:OK
 6740:jyotis:foenum:OK
